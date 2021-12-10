@@ -1,4 +1,5 @@
 # Hey There! I am 𝘐𝘯𝘶𝘬𝘢 𝘙𝘢𝘯𝘮𝘪𝘳𝘢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+Go My Another Account [Click Here](https://github.com/InukaRanmira/InukaRanmira)
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
